@@ -56,7 +56,7 @@
 ---
 
 ## 🌟 Projeto Destacado  
-🔹 [AcheiUnB](https://github.com/TiagoBalieiro/acheiunb)  
+🔹 [AcheiUnB](https://github.com/unb-mds/2024-2-AcheiUnB)  
 
 ---
 
