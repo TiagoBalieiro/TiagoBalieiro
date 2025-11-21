@@ -46,20 +46,31 @@
 ## 📊 Estatísticas  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoBalieiro&theme=radical" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=TiagoBalieiro&show_icons=true&theme=radical"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoBalieiro&theme=radical"
+    height="165"
+  />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TiagoBalieiro&color=blue" />
-  <img src="https://github-readme-stats.vercel.app/api?username=TiagoBalieiro&show_icons=true&theme=radical" height="165" />
 </p>
 
 ---
 
 ## 🌟 Projetos em Destaque  
 
-- Repositórios de estudos e experimentos em **Machine Learning** e **Ciência de Dados** aqui no perfil.  
-- Projetos acadêmicos em **Engenharia de Software** com foco em uso de dados para apoiar tomadas de decisão.  
+- 🔍 **IEEE-CIS Trainee – Estudos em Machine Learning e Ciência de Dados**  
+  Repositório com experimentos, notebooks e práticas do programa trainee do IEEE CIS UnB.  
+  👉 [github.com/TiagoBalieiro/IEEE-CIS-Trainee](https://github.com/TiagoBalieiro/IEEE-CIS-Trainee)
+
+- 🧾 **CdD-ML – Análise de despesas dos deputados**  
+  Projeto de Machine Learning que coleta e analisa dados de despesas dos deputados usando a API de Dados Abertos da Câmara dos Deputados.  
+  👉 [github.com/DaviRogs/CdD-ML](https://github.com/DaviRogs/CdD-ML)
 
 ---
 
