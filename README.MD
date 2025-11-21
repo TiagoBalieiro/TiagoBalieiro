@@ -30,7 +30,7 @@
 ### 🗄️ Bancos de Dados & Backend  
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 </p>
 
 ### 🔗 Versionamento & Ferramentas  
@@ -47,11 +47,11 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoBalieiro&theme=radical" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=TiagoBalieiro&theme=radical" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TiagoBalieiro&color=blue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TiagoBalieiro&show_icons=true&theme=radical" height="165" />
 </p>
 
 ---
