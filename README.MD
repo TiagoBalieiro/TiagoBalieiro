@@ -1,36 +1,36 @@
 <h1 align="center">👋 Olá, eu sou o Tiago Balieiro!</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Frontend | Vue.js | Tailwind CSS | Ciência de Dados</strong>
+  <strong>Estagiário em Ciência de Dados | Python | SQL | Machine Learning</strong>
 </p>
 
 ---
 
 ## 🚀 Sobre mim  
 
-💻 Sou estudante de **Engenharia de Software** na Universidade de Brasília (UnB) com foco em **desenvolvimento frontend** e interesse em **ciência de dados**.  
-📌 Participo do **IEEE CIS UnB**, uma sociedade de inteligência computacional, onde estudo **aprendizado de máquina e inteligência artificial**.  
-🎨 Gosto de criar interfaces modernas e responsivas utilizando **Vue.js, JavaScript e Tailwind CSS**.  
-🌎 Possuo **inglês avançado** e **francês básico**.  
+💻 Sou estudante de **Engenharia de Software** na Universidade de Brasília (UnB) com foco em **ciência de dados** e **Machine Learning**.  
+📊 Atuo como **estagiário em Ciência de Dados na ENAP**, trabalhando com **manipulação e análise de bases de dados**, uso de **Python e SQL**, apoio na construção de **dashboards e painéis em BI** e participação em projetos que envolvem modelos de ML.  
+🤖 Faço parte do **IEEE CIS UnB**, onde aprofundo meus estudos em **aprendizado de máquina** e **inteligência artificial** em atividades práticas.  
+🌎 Possuo **inglês avançado** e estou sempre em busca de novos desafios para aplicar dados na solução de problemas reais.  
 
 ---
 
 ## 🔧 Tecnologias & Ferramentas  
 
-### 🌐 Frontend  
+### 📈 Ciência de Dados & Machine Learning  
 <p align="left">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-### ⚙️ Backend & Data Science  
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+### 🗄️ Bancos de Dados & Backend  
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ### 🔗 Versionamento & Ferramentas  
@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -55,8 +56,10 @@
 
 ---
 
-## 🌟 Projeto Destacado  
-🔹 [AcheiUnB](https://github.com/unb-mds/2024-2-AcheiUnB)  
+## 🌟 Projetos em Destaque  
+
+- Repositórios de estudos e experimentos em **Machine Learning** e **Ciência de Dados** aqui no perfil.  
+- Projetos acadêmicos em **Engenharia de Software** com foco em uso de dados para apoiar tomadas de decisão.  
 
 ---
 
@@ -68,4 +71,4 @@
 
 ---
 
-✨ _Sempre aprendendo e explorando novas tecnologias!_ 🚀
+✨ _Sempre aprendendo e explorando novas formas de gerar valor com dados!_ 🚀
