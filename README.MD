@@ -9,7 +9,7 @@
 ## 🚀 Sobre mim  
 
 💻 Sou estudante de **Engenharia de Software** na Universidade de Brasília (UnB) com foco em **ciência de dados** e **Machine Learning**.  
-📊 Atuo como **estagiário em Ciência de Dados na ENAP**, trabalhando com **manipulação e análise de bases de dados**, uso de **Python e SQL**, apoio na construção de **dashboards e painéis em BI** e participação em projetos que envolvem modelos de ML.  
+📊 Atuo como **estagiário em Ciência de Dados na ENAP**, trabalhando com **manipulação e análise de bases de dados**, uso de **Python e SQL**, construção de agentes com IA, pipelines de dados, e participação em projetos que envolvem modelos de ML.  
 🤖 Faço parte do **IEEE CIS UnB**, onde aprofundo meus estudos em **aprendizado de máquina** e **inteligência artificial** em atividades práticas.  
 🌎 Possuo **inglês avançado** e estou sempre em busca de novos desafios para aplicar dados na solução de problemas reais.  
 
@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
