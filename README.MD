@@ -9,9 +9,9 @@
 ## 🚀 Sobre mim  
 
 💻 Sou estudante de **Engenharia de Software** na Universidade de Brasília (UnB) com foco em **ciência de dados** e **Machine Learning**.  
-📊 Atuo como **estagiário em Ciência de Dados na ENAP**, trabalhando com **manipulação e análise de bases de dados**, uso de **Python e SQL**, construção de agentes com IA, pipelines de dados, e participação em projetos que envolvem modelos de ML.  
+📊 Atuo como **Ciêntista de Dados na ENAP**, trabalhando com **manipulação e análise de bases de dados**, uso de **Python e SQL**, construção de agentes com IA, pipelines de dados, e participação em projetos que envolvem modelos de ML.  
 🤖 Faço parte do **IEEE CIS UnB**, onde aprofundo meus estudos em **aprendizado de máquina** e **inteligência artificial** em atividades práticas.  
-🌎 Possuo **inglês avançado** e estou sempre em busca de novos desafios para aplicar dados na solução de problemas reais.  
+🌎 Possuo **inglês fluente**, **francês básico** e estou sempre em busca de novos desafios para aplicar dados na solução de problemas reais.  
 
 ---
 
@@ -78,7 +78,3 @@
 📌 **LinkedIn:** [linkedin.com/in/tiagobalieiro](http://www.linkedin.com/in/tiagobalieiro)  
 🐙 **GitHub:** [github.com/TiagoBalieiro](https://github.com/TiagoBalieiro)  
 💌 **E-mail:** tiagoantunes0905@gmail.com  
-
----
-
-✨ _Sempre aprendendo e explorando novas formas de gerar valor com dados!_ 🚀
